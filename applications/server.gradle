@@ -27,7 +27,6 @@ dependencies {
 
 bootRun.environment([
     "APPLICATION_OAUTH_ENABLED": true,
-    "SECURITY_OAUTH2_CLIENT_CLIENT_ID": "tracker-client",
-    "SECURITY_OAUTH2_CLIENT_CLIENT_SECRET": "supersecret",
-    "EUREKA_CLIENT_OAUTH2_CLIENTID": "eureka-client"
+    "SECURITY_OAUTH2_CLIENT_CLIENT_ID": "dd0aa7eb-66c0-4d77-ae94-cbfd18cb4bf3",
+    "SECURITY_OAUTH2_CLIENT_CLIENT_SECRET": "b746609f-07ae-4dca-b6f9-6912fb62ab40"
 ])
